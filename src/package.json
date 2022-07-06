@@ -1,0 +1,23 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/tables/ReactVirtualizedTable.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.2.1",
+    "@material-ui/styles": "4.2.0",
+    "clsx": "latest",
+    "faker": "5.5.3",
+    "memoize-one": "5.0.5",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-virtualized": "latest",
+    "react-virtualized-auto-sizer": "1.0.2",
+    "react-window": "1.8.5"
+  },
+  "keywords": [],
+  "name": "material-ui-react-window-virtualized-table-example"
+}
